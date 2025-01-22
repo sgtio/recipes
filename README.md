@@ -1,2 +1,2 @@
-# recipes
-Collection of recipes (mostly in Spanish)
+# Recipes
+A collection of recipes (mostly in Spanish).
